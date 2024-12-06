@@ -1,0 +1,19 @@
+<svg width="346" height="346" viewBox="0 0 346 346" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="123" y="98" width="100" height="150" fill="#EFFCFF"/>
+<rect x="223" y="98" width="60" height="150" fill="#EFFCFF"/>
+<rect x="223" y="98" width="60" height="150" fill="black" fill-opacity="0.05"/>
+<rect x="63" y="98" width="60" height="150" fill="#EFFCFF"/>
+<rect x="63" y="98" width="60" height="150" fill="black" fill-opacity="0.1"/>
+<path d="M123 248H223L173 328L123 248Z" fill="#EFFCFF"/>
+<path d="M123 248H223L173 328L123 248Z" fill="black" fill-opacity="0.05"/>
+<path d="M223 248H283L173 328L223 248Z" fill="#EFFCFF"/>
+<path d="M223 248H283L173 328L223 248Z" fill="black" fill-opacity="0.15"/>
+<path d="M123 248H63L173 328L123 248Z" fill="#EFFCFF"/>
+<path d="M123 248H63L173 328L123 248Z" fill="black" fill-opacity="0.2"/>
+<path d="M123 98H223L173 18L123 98Z" fill="#EFFCFF"/>
+<path d="M123 98H223L173 18L123 98Z" fill="black" fill-opacity="0.05"/>
+<path d="M223 98H283L173 18L223 98Z" fill="#EFFCFF"/>
+<path d="M223 98H283L173 18L223 98Z" fill="black" fill-opacity="0.1"/>
+<path d="M123 98H63L173 18L123 98Z" fill="#EFFCFF"/>
+<path d="M123 98H63L173 18L123 98Z" fill="black" fill-opacity="0.15"/>
+</svg>
