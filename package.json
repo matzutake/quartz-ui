@@ -9,7 +9,8 @@
     "lint": "eslint --ext .js,.ts,.vue src",
     "lint:fix": "eslint --fix --ext .js,.ts,.vue src",
     "format": "prettier --write .",
-    "prepare": "husky"
+    "prepare": "husky",
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
@@ -26,6 +27,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-vue": "^9.32.0",
+    "gh-pages": "^6.2.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.2.10",
     "path": "^0.12.7",
@@ -34,6 +36,7 @@
     "sass-loader": "^16.0.4",
     "typescript": "~5.6.2",
     "vite": "^6.0.1",
+    "vite-plugin-pages": "^0.32.4",
     "vue-tsc": "^2.1.10"
   },
   "lint-staged": {
